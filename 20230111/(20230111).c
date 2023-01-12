@@ -1,4 +1,4 @@
-#include <stdio.h>                      //기돈이 코드 참고함                           
+#include <stdio.h>                      //수정 필요 아직                           
 #include <stdlib.h>
 #include <time.h>
 #define x1 5
